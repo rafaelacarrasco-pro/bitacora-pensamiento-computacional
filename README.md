@@ -1,1 +1,0 @@
-# bitacora-pensamiento-computacional
